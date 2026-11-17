@@ -1,0 +1,6 @@
+.env
+resume.pdf
+resume.docx
+data/
+logs/
+__pycache__/
